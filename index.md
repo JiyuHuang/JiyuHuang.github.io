@@ -8,6 +8,12 @@
 
 ---
 
+[Mini Minecraft](https://github.com/JiyuHuang/Mini-Minecraft)
+
+<img src="images/mini_minecraft.png"/>
+
+---
+
 [GPU Boid Flocking Simulation](https://github.com/JiyuHuang/Project1-CUDA-Flocking)
 
 <img src="images/boid_flocking.gif"/>
