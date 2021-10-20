@@ -31,3 +31,9 @@
 <img src="images/ink_wash.gif"/>
 
 ---
+
+[OpenGL Shaders](https://github.com/JiyuHuang/opengl-shaders)
+
+<img src="images/opengl_shaders.gif"/>
+
+---
