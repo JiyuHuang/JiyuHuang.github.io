@@ -14,6 +14,12 @@
 
 ---
 
+[Micro Maya Mesh Editor](https://github.com/JiyuHuang/mesh-editor)
+
+<img src="images/mesh_editor.gif"/>
+
+---
+
 [GPU Boid Flocking Simulation](https://github.com/JiyuHuang/Project1-CUDA-Flocking)
 
 <img src="images/boid_flocking.gif"/>
