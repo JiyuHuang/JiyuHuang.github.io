@@ -8,6 +8,12 @@
 
 ---
 
+[WebGL Forward+ and Clustered Deferred Rendering](https://github.com/JiyuHuang/Project5-WebGL-Forward-Plus-and-Clustered-Deferred/) ([live demo](https://jiyuhuang.github.io/Project5-WebGL-Forward-Plus-and-Clustered-Deferred/))
+
+<img src="images/webgl_clustered_defer.gif"/>
+
+---
+
 [Mini Minecraft](https://github.com/JiyuHuang/Mini-Minecraft)
 
 <img src="images/mini_minecraft.png"/>
