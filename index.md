@@ -2,9 +2,9 @@
 
 ---
 
-[WebGPU glTF Viewer](https://github.com/cis565-team6/webgpu-gltf-viewer) (work in progress)
+[WebGPU glTF Viewer](https://github.com/JiyuHuang/webgpu-gltf-viewer) (work in progress)
 
-[live demo](https://cis565-team6.github.io/webgpu-gltf-viewer/) (requires Chrome Canary with webgpu flag enabled)
+[live demo](https://jiyuhuang.github.io/webgpu-gltf-viewer/) (requires Chrome Canary with webgpu flag enabled)
 
 <img src="images/webgpu.png"/>
 
